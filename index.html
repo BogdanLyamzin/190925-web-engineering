@@ -6,6 +6,17 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <script>
+        const stations = [
+            {
+                title: "",
+                address: "",
+                coords: "31.34 25.66"
+            }
+        ];
+        const [lat, lng] = stations[0].coords.split(" ");
+        const usdCurrency = 0.8;
+        const request = `SELECT (quantity * unit_price) AS euro_total_price, (quantity * unit_price / ${usdCurrency}) AS usd_total_price FROM order_details;`;
+    </script>
 </body>
 </html>
