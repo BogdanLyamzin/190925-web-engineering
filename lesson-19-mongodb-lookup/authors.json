@@ -1,0 +1,14 @@
+[
+    { "_id": 1, "name": "Анна Иванова", "country": "Ukraine", "birth_year": 1985 },
+    { "_id": 2, "name": "Иван Петров", "country": "Ukraine", "birth_year": 1978 },
+    { "_id": 3, "name": "John Smith", "country": "USA", "birth_year": 1980 },
+    { "_id": 4, "name": "Emily Brown", "country": "UK", "birth_year": 1990 },
+    { "_id": 5, "name": "Carlos Diaz", "country": "Spain", "birth_year": 1983 },
+    { "_id": 6, "name": "Marie Dubois", "country": "France", "birth_year": 1975 },
+    { "_id": 7, "name": "Hans Muller", "country": "Germany", "birth_year": 1988 },
+    { "_id": 8, "name": "Yuki Tanaka", "country": "Japan", "birth_year": 1992 },
+    { "_id": 9, "name": "Olga Sidorova", "country": "Ukraine", "birth_year": 1987 },
+    { "_id": 10, "name": "Liam Wilson", "country": "Canada", "birth_year": 1981 },
+    { "_id": 11, "name": "Sofia Rossi", "country": "Italy", "birth_year": 1989 },
+    { "_id": 12, "name": "Noah Martin", "country": "USA", "birth_year": 1979 }
+  ]

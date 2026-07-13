@@ -1,5 +1,7 @@
 import { DataTypes } from "sequelize";
-
+{
+    ainv: [""]
+}
 import sequelize from "../config/db.js";
 
 const User = sequelize.define(

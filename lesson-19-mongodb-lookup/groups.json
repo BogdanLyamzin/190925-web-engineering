@@ -1,0 +1,5 @@
+[
+    {  "title": "Frontend", "maxSize": 20 },
+    { "title": "Backend", "maxSize": 15 },
+    { "title": "Data Science", "maxSize": 10 }
+  ]

@@ -1,0 +1,6 @@
+[
+    { "name": "Анна", "group_id": 101 },
+    { "name": "Иван", "group_id": 102 },
+    { "name": "Мария", "group_id": 101 },
+    { "name": "Олег", "group_id": 103 }
+  ]
